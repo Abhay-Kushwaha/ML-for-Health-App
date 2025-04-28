@@ -3,3 +3,4 @@ models/
 *.h5
 *.pt
 *.pkl
+static/ML/*.mp3
